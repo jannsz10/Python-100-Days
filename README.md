@@ -1,12 +1,5 @@
 ## Python - 100天从新手到大师
 
-> **作者**：骆昊
->
-> **说明**：如果访问 GitHub 比较慢的话，可以关注我的知乎号（[**Python-Jack**](https://www.zhihu.com/people/jackfrued)），上面的[“**从零开始学Python**”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏（对应本项目前 20 天的内容）比较适合初学者，其他的专栏如“[**数据思维和统计思维**](https://www.zhihu.com/column/c_1620074540456964096)”、“[**基于Python的数据分析**](https://www.zhihu.com/column/c_1217746527315496960)”、“[**说走就走的AI之旅**](https://www.zhihu.com/column/c_1628900668109946880)”等也在持续创作和更新中，欢迎大家关注、点赞和评论。如果希望免费学习打卡或者参与问题讨论，可以加入下面的 QQ 交流群（三个群加一个即可），请不要重复加群，也不要在群里发布广告和其他色情、低俗或敏感内容。如果有付费学习或付费咨询的需求，可以添加我的私人微信（微信号：**jackfrued**），备注好自己的称呼和需求，我会为大家提供力所能及的帮助。
->
-> <img src="res/python_study_qq_group.png" style="zoom:30%;">
->
-> 本项目对应的部分视频已经同步到 [Bilibili](https://space.bilibili.com/1177252794)，有兴趣的小伙伴可以点赞、投币、关注，一键三连支持一下！
 
 ### Python应用领域和职业发展分析
 
